@@ -1,0 +1,30 @@
+body {
+  background: #F6E5F6;
+   font-family: 'Hind', sans-serif;
+   font-size: 35px
+ }
+.container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 748px;
+}
+.div1 {
+  border: 5px solid black;
+  background: #C8ECF4;
+  padding: 5%;
+  margin: 5%;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+  height: 10%;
+  width: 90%;
+  font-size: 14px;
+  }
+.div2 {
+  border: 5px solid #772500;
+  background: #2D957F;
+  padding: 5%;
+  margin: 5%;
+  height: 15%;
+  width: 90%;
+  font-size: 22px;
+}
